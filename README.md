@@ -1,6 +1,6 @@
 # Hola, soy Ainara Landaberea 👋
 
-## Diseñadora gráfica & UX/UI · Desarrollo Web · Branding · SEO · IA
+## Diseñadora gráfica & UX/UI · Web · Branding · SEO · IA
 
 #### 100% Creative · Web & Marketing Specialist · Creativa Versátil
 
