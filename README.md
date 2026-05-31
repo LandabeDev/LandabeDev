@@ -25,10 +25,10 @@ Soy una profesional ***versátil*** con más de 10 años de experiencia.
 ## Experiencia
 
 **Especialista en Marketing Digital y Diseño** · ZeroMoment Marketing *(abr. 2023 - actualidad)*  
-Diseño gráfico · Adobe Photoshop · Adobe Illustrator · Copywriting · WordPress · SEO · Marketing digital · Figma · Community Manager · Wordpress · Elementor
+Diseño gráfico · Adobe Photoshop · Adobe Illustrator · Copywriting · SEO · Marketing digital · Figma · Wordpress · Elementor · Social Media
 
 **Branding · Diseño Web · SEO · Marketing Digital** · Autónoma *(2014 - actualidad)*  
-Calahorra, La Rioja · En remoto
+Calahorra, La Rioja 
 
 **Diseño, Ilustración y Comunicación** · Asociación Artiliburu21 *(ene. 2016 - actualidad)*  
 Asociación artística y cultural sin ánimo de lucro para fomentar las artes y los oficios del libro.
