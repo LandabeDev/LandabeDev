@@ -110,7 +110,7 @@ git push origin main
 
 ---
 
-## 📊 Stack tecnológico
+## Stack tecnológico
 
 | Área | Herramientas | Nivel |
 |------|-------------|-------|
@@ -122,7 +122,7 @@ git push origin main
 
 ---
 
-## 📫 Conecta conmigo
+## Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ainara_Landaberea-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ainaralandaberea/)
 
