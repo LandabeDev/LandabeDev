@@ -16,8 +16,8 @@ Soy una profesional ***versátil*** con más de 10 años de experiencia.
 
 - 🎨 Más de 10 años en diseño gráfico, branding y desarrollo web
 - 🤖 Máster en Inteligencia Artificial (BIG School)
-- ☕ Impulsada por café<sub>con leche de soja</sub> y curiosidad incansable
-- 🚀 Creatividad elevada al cuadrado<sup>2</sup>
+- ☕ Impulsada por café <sub>con leche de soja</sub> y curiosidad incansable
+- 🚀 Creatividad elevada al <sup>2</sup>
 - 📍 Calahorra, La Rioja, España · Trabajo en remoto
 
 ---
