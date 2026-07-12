@@ -45,15 +45,15 @@ Profesora de pintura para niños y niñas de 6 a 12 años.
 **Asistente de investigación** · Sinnergiak Social Innovation - UPV/EHU *(2019)*  
 Gestión de eventos y comunicación del espacio Etorkizuna Eraikiz Gunea · Diputación Foral de Gipuzkoa.
 
+**Programador Junior** · ANER Sistemas Informáticos *(ene. 2011 - jun. 2011)*  
+PHP · WordPress
+
 **Técnico en Diseño y Producción** · Kolore Inprimategia *(jul. 2008 - dic. 2009)*  
 InDesign · Atención al detalle · Imprenta digital para tiradas cortas.
 
 **Auxiliar de Diseño y Preimpresión** · Kolore Inprimategia *(2008)*
 
 **Auxiliar de Preimpresión** · Varela Impresión Gráfica SL *(2006)*
-
-**Programador Junior** · ANER Sistemas Informáticos *(ene. 2011 - jun. 2011)*  
-PHP · WordPress
 
 ---
 
